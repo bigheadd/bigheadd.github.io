@@ -1,3 +1,19 @@
 a.navbar-brand.contact-me, i.fas.fa-comment, i.fab.fa-linkedin, i.fab.fa-youtube, i.fab.fa-github {
     color: #339af0;
 }
+
+@media (min-width: 576px) {
+    
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}
